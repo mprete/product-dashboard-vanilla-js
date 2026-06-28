@@ -51,5 +51,6 @@ async function fetchProductsAsync() {
 }
 
 // Calls both fetch functions on page load
+//Hover effect applied in style.css
 fetchProductsThen();
 fetchProductsAsync();
