@@ -1,3 +1,4 @@
+//Product Dash Board
 // Fetches all products from the store API using .then()
 function fetchProductsThen() {
   fetch('https://www.course-api.com/javascript-store-products')
